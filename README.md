@@ -1,7 +1,8 @@
 # eye_mouse
 O projeto visa melhorar a acessibilidade em computadores para pessoas com deficiências motoras, permitindo o controle do mouse por meio dos movimentos oculares. Utilizando Python, OpenCV e MediaPipe, o sistema oferece uma alternativa intuitiva e assistiva, dispensando dispositivos de entrada tradicionais.
 
-O projeto visa melhorar a acessibilidade em computadores para pessoas com deficiências motoras, permitindo o controle do mouse por meio dos movimentos oculares. Utilizando Python, OpenCV e MediaPipe, o sistema oferece uma alternativa intuitiva e assistiva, dispensando dispositivos de entrada tradicionais.
+The project aims to improve accessibility on computers for people with motor disabilities, allowing mouse control through eye movements. Using Python, OpenCV and MediaPipe, the system offers an intuitive and assistive alternative, dispensing with traditional input devices.
+
 
 
 #made by: Rafael Henrique Prudencio
